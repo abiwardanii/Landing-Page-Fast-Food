@@ -6,5 +6,10 @@
 - CSS 3
 - BOOSTRAP 4
 - SASS
-#### Demo: Click on this link below
-[click me!](https://condescending-lumiere-5e9f05.netlify.app/)
+
+### Installation
+- [Boostrap 4](https://getbootstrap.com/)
+- [SASS](https://sass-lang.com/install)
+
+# Demo
+:point_right: [click me!](https://condescending-lumiere-5e9f05.netlify.app/)
